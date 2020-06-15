@@ -1,0 +1,21 @@
+{
+    "name": "aswar/yii2-thumbnail",
+    "description": "widget thumbnail boostrap for framework yii 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","thumbnail","boostrap"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aswar",
+            "email": "aswarsyam45@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "aswar\\bs\\": ""
+        }
+    }
+}
